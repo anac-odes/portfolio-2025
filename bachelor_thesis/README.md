@@ -1,0 +1,4 @@
+# Bachelor Thesis: Simulation-Based Analysis of Structure and Parameter Effects on Diagnostic Accuracy in BN20 Networks
+
+**Tools:** Python, Numpy, sckit-learn, Pandas, matplotlib, Seaborn 
+**Summary:** I explored the effect of different parameters in BN20 Networks on their diagnostic accuracy. BN20 networks are two layer Bayesian Networks that contain binary nodes and noisy-OR dependencies. The parameters explored were: disease prevalences (prior probability of diseases), network structure (different organisation of finding-disease connections),  sensitivity and specificity of findings to diseases and other parameters such as number of total diseases and findings.

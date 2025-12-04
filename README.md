@@ -1,2 +1,4 @@
-# portfolio-2025
-Collection of relevant university projects
+# Portfolio 2025
+Collection of relevant projects.
+
+Ana Leopold
